@@ -91,3 +91,7 @@ export default class View {
     this._parentElement.insertAdjacentHTML('afterbegin', markup);
   }
 }
+
+const newFeature = function () {
+  console.log('Welcome to the application');
+};
