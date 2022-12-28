@@ -134,3 +134,7 @@ const init = function () {
   // controlServings();
 };
 init();
+
+const testFun = function () {
+  console.log('Tes');
+};
